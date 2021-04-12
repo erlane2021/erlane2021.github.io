@@ -1,0 +1,7 @@
+# Site settings
+title: Jéssica Mendonça
+description: Auto ajuda
+keywords: Tipos de câncer, livros, filmes
+author: Jéssica
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
