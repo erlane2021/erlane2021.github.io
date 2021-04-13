@@ -1,7 +1,7 @@
 # Site settings
-title: Luan Moises dos Santos Valadares
-description: Aluno de licenciatura em  Matemática 
+title:Erlane Santiago
+description: Aluna de licenciatura em  Matemática 
 keywords: professor, , R, matemática
-author: IMG_FSB
+author: Erlane
 baseurl: "" # the subpath of your site, e.g. /blog/
 permalink: /:collection/:path/
