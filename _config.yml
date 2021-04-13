@@ -1,7 +1,7 @@
 # Site settings
-title:Erlane Santiago
-description: Horas vagas
-keywords:comidas,receitas
-author: Erlane
+title: Luan Moises dos Santos Valadares
+description: Aluno de licenciatura em  Matemática 
+keywords: professor, , R, matemática
+author: IMG_FSB
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+permalink: /:collection/:path/
