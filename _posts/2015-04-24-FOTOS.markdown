@@ -2,7 +2,7 @@
 title:  "Fotos"
 subtitle:
 author: "Erlane Santiago"
-image: "img/d.jpeg'
+image: "img/d.jpeg"
 ---
 
 # minhas fotos
