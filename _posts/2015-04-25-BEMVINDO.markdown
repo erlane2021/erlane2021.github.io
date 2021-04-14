@@ -7,5 +7,5 @@ image: "img/mae.jpg"
 
 ### Quem sou eu?
 <div style = "text-align: justify;">
-Sou ERlane, faço licenciatura em mateaamática na UFV-campos Florestal,e nas horas vagas gosto de cozinhar. E com essa pandemia vi nisto uma forma de ganhar algum dinheiro.
+Sou Erlane, faço licenciatura em mateamática na UFV-campos Florestal,e nas horas vagas gosto de cozinhar. E com essa pandemia vi nisto uma forma de ganhar algum dinheiro.
 <div>
