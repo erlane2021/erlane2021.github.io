@@ -1,7 +1,7 @@
 # Site settings
 title:Erlane Santiago
-description: Aluna de licenciatura em  Matemática 
-keywords: professor, , R, matemática
+description: Horas vagas
+keywords:comidas,receitas
 author: Erlane
 baseurl: "" # the subpath of your site, e.g. /blog/
-permalink: /:collection/:path/
+url: "" # the base hostname & protocol for your site
