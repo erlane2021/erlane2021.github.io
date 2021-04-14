@@ -6,7 +6,7 @@ image: "img/d.jpeg"
 ---
 
 # minhas fotos
-<img src="img/a.jpeg" style="width:200px; height:200px"/>
+
 ![](img/a.jpeg)
 ![](img/b.jpeg)
 ![](img/c.jpeg)
