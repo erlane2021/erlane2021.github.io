@@ -1,6 +1,7 @@
 ---
 title:  "Fotos"
 subtitle:
+author: "Erlane Santiago"
 image: "img/d.jpeg'
 ---
 
