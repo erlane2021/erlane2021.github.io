@@ -19,3 +19,7 @@ image: "img/d.jpeg"
 ![](img/m.jpeg)
 ![](img/n.jpeg)
 ![](img/p.jpeg)
+![](img/x.jpeg)
+![](img/y.jpeg)
+![](img/z.jpeg)
+![](img/p.jpeg)
